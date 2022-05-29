@@ -31,7 +31,7 @@ This code answers the fallowing question in order:
 
 ## Imports needed
 
-import collections
+import collections  
 import itertools
 
 They are at the beginning of the analysis
